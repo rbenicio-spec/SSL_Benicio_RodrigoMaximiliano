@@ -1,6 +1,10 @@
-# 00-CHelloWorld
+\# TP0
 
-Primer programa en C.
 
-## Objetivo
-Imprimir "Hello World".
+
+\## Primer programa en C
+
+
+
+"Hola Mundo"
+
